@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TeamWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\views\\teams\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:views\\teams\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\data\\migrations\\20240520154021_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:data\\migrations\\20240520154021_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|c:\\users\\user\\source\\repos\\teamwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0DCC21A-E61B-4FAA-88C2-DAED4CC89231}|TeamWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Teams\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Teams\\Create.cshtml",
+              "RelativeToolTip": "Views\\Teams\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:59:51.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:20:57.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:37:12.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:03:06.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:13:04.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:01:24.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "Views\\Teams\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:34:53.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Teams\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teams\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Teams\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "Views\\Teams\\ShowSearchForm.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:05:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T15:50:29.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240520154021_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Data\\Migrations\\20240520154021_initialsetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240520154021_initialsetup.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Data\\Migrations\\20240520154021_initialsetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240520154021_initialsetup.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:40:22.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TeamWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:37:20.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
